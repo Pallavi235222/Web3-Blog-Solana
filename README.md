@@ -4,8 +4,8 @@
 `## The Home page of the blog application will seem to be in the below image, once when we click on the connect button it chooses phantom wallet for connection`
 ![image](https://user-images.githubusercontent.com/93990691/202890440-16af0773-1e81-4d37-8800-5fe10577fd24.png)
 
-![image](https://user-images.githubusercontent.com/93990691/202890450-f00829fe-f6ee-4b1e-9af9-2663d3166d50.png)
-
+![image](https://user-images.githubusercontent.com/93990691/202890450-f00829fe-f6ee-4b1e-9af9-2663d3166d50.png) 
+ 
 `## Once the Wallet is conencted the application checks whether the wallet address is already belonging to the application's solana chain. if not we need to initialize the user with just 0.000001sol, right now this application is built on solana chain so we can use devnet's solana tokens`
 ![image](https://user-images.githubusercontent.com/93990691/202890462-42da349c-eb28-4ea9-962c-c07f4e687863.png)
 
